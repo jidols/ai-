@@ -1,0 +1,6 @@
+{
+  "name": "Hanwha Aero-Spec Insight (HASI)",
+  "description": "지능형 특수공정 컴플라이언스 어드바이저 - 가스터빈 엔진 부품 도면 주기사항과 특수공정 규격 정합성 자동 검토 및 Level C 엔지니어링 제안 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
